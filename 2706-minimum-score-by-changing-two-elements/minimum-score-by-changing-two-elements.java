@@ -1,3 +1,4 @@
+//Greedy+sorting
 class Solution {
     public int minimizeSum(int[] nums) {
         Arrays.sort(nums);
